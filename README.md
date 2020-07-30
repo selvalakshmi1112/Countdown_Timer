@@ -1,2 +1,3 @@
 # Countdown_Timer 
-Done using html
+
+Done using HTML,CSS, JavaScript
